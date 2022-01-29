@@ -1,0 +1,8 @@
+Persist user score.
+Ball bounces in same direction at the edge of paddle.
+Better scoring system.
+Add replay and pause and start button
+Higher levels and speed changes
+
+Known bugs
+Side collision with Paddle
